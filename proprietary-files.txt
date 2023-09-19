@@ -1528,7 +1528,6 @@ vendor/lib64/libtrustedapploader.so
 odm/bin/init.oplus.wifi.sh
 odm/etc/wifi/bdwlan.57
 odm/etc/wifi/init.project.wifi.sh
-odm/vendor/etc/wifi/WCNSS_qcom_cfg.ini
 vendor/bin/cnss-daemon
 vendor/etc/wifi/p2p_supplicant_overlay.conf
 vendor/etc/wifi/wpa_supplicant_overlay.conf
